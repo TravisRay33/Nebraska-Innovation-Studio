@@ -7,12 +7,19 @@ The goals of these lessons are:
 4. Have fun!
 
 # Tools
-This course will utilize the new Arduino Uno R4 Wifi
+This course will utilize the new Arduino Uno R4 Wifi<br>
+![2Uno R4 wifi_bb](https://github.com/TravisRay33/Nebraska-Innovation-Studio/assets/140020128/716c42b1-1fca-4b1d-bd18-f2eee1dd3697)
 
 Other boards that could work include:
+
+Arduino Uno R4
+
+Arduino Nano
+
+Arduino Mega
 
 
 # Thanks
 This workshop was made possible with the following organizations <br>
-Nebraska Innovation Studio: (https://innovationstudio.unl.edu/) <br>
-Heartland Robotics Cluster: (https://www.heartlandroboticscluster.com/) <br>
+[Nebraska Innovation Studio](https://innovationstudio.unl.edu/) <br>
+[Heartland Robotics Cluster](https://www.heartlandroboticscluster.com/) <br>
