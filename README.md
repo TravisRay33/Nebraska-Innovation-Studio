@@ -6,10 +6,14 @@ The goals of these lessons are:
 3. Learn and practice coding in the arduino Integrated Development Environment (IDE)
 4. Have fun!
 
-
+# Tools
 This course will utilize the new Arduino Uno R4 Wifi
 
 
 Other boards that could work include:
 
 
+# Thanks
+This workshop was made possible with the following organizations:
+Nebraska Innovation Studio https://innovationstudio.unl.edu/
+Heartland Robotics Cluster https://www.heartlandroboticscluster.com/
