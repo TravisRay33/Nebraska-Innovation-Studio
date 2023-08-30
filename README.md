@@ -1,5 +1,5 @@
 # Nebraska-Innovation-Studio
-Welcome to Arduino - Introduction to Coding
+Welcome to Arduino - Introduction to Coding<br>
 The goals of these lessons are:
 1. Get familiar with the Arduino hardware
 2. Explore various electrical components and tools
@@ -8,7 +8,6 @@ The goals of these lessons are:
 
 # Tools
 This course will utilize the new Arduino Uno R4 Wifi
-
 
 Other boards that could work include:
 
