@@ -14,6 +14,6 @@ Other boards that could work include:
 
 
 # Thanks
-This workshop was made possible with the following organizations:
-Nebraska Innovation Studio https://innovationstudio.unl.edu/
-Heartland Robotics Cluster https://www.heartlandroboticscluster.com/
+This workshop was made possible with the following organizations <br>
+Nebraska Innovation Studio: (https://innovationstudio.unl.edu/) <br>
+Heartland Robotics Cluster: (https://www.heartlandroboticscluster.com/) <br>
