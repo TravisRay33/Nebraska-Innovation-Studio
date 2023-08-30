@@ -1,5 +1,4 @@
-# Nebraska-Innovation-Studio
-Welcome to Arduino - Introduction to Coding<br>
+# Arduino - Introduction to Coding @ Nebraska Innovation Studio<br>
 The goals of these lessons are:
 1. Get familiar with the Arduino hardware
 2. Explore various electrical components and tools
